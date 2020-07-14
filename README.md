@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋 
+
+## I'm Clark 💖
+
+A Software/Computer Network background engineer with 7 years experienced in information network industry
+
+🌱 I’m currently learning Python, Machine Learning and ...
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=clarkchiu&show_icons=true)
 
 <!--
 **ClarkChiu/clarkchiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
