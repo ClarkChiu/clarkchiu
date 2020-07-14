@@ -6,6 +6,8 @@ A Software/Computer Network background engineer with 7 years experienced in info
 
 🌱 I’m currently learning Python, Machine Learning and ...
 
+🚧 **Current Project:** [Kobo 99 Notifier](https://github.com/ClarkChiu/kobo_99_notifier) (Telegram notification sender by using GitHub actions)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=clarkchiu&show_icons=true)
 
 <!--
