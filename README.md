@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clark Chiu</h1>
-<h3 align="center">A Software/Computer Network background engineer</h3><h3>with 7 years experienced in information network industry</h3>
+<h3 align="center">A Software/Computer Network background engineer with 7 years experienced in information network industry</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarkchiu" alt="clarkchiu" /> </p>
 
 - 🔭 I’m currently working on [Kobo 99 Notifier](https://github.com/ClarkChiu/kobo_99_notifier)
