@@ -2,7 +2,7 @@
 <h3 align="center">A Software/Computer Network background engineer with 7 years experienced in information network industry</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarkchiu" alt="clarkchiu" /> </p>
 
-- 🔭 I’m currently working on [Kobo 99 Notifier](https://github.com/ClarkChiu/kobo_99_notifier)
+- 🔭 I’m currently working on [Taiwan-Neutral-NEWS-Notifier](https://github.com/ClarkChiu/Taiwan-Neutral-NEWS-Notifier)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ClarkChiu](https://github.com/ClarkChiu)
 
