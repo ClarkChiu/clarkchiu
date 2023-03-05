@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Clark Chiu</h1>
-<h3 align="center">A Software/Computer Network background engineer with 7 years experienced in information network industry</h3>
+<h3 align="center">A Software/Computer Network background engineer with 9 years experienced in information network industry</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarkchiu" alt="clarkchiu" /> </p>
+
+<a href="https://www.buymeacoffee.com/clarkchiu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 - 🔭 I’m currently working on [Taiwan-Neutral-NEWS-Notifier](https://github.com/ClarkChiu/Taiwan-Neutral-NEWS-Notifier)
 
